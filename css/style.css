@@ -244,7 +244,7 @@ small {
 /*---------x---------Testimonials-----------x----------*/
 
 
-/*-----------------------Brands-------------------------*/
+/*-----------------------Footer-------------------------*/
 
 .footer {
     background: #000;
@@ -284,9 +284,28 @@ small {
 
 ul {
     list-style-type: none;
-    
+}
+
+.app-logo {
+    margin-top: 20px;
+}
+
+.app-logo img{
+    width: 140px;
+}
+
+.footer hr {
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    width: 12px 0;
+}
+
+.copyright {
+    text-align: center;  
+    font-family: Poppins-Bold;
 }
 
 
 
-/*------------x----------Brands-----------x-------------*/
+/*------------x----------Footer-----------x-------------*/
